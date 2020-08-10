@@ -1,5 +1,5 @@
-FROM binhex/arch-int-openvpn:latest
-MAINTAINER binhex
+FROM dholt/arch-int-openvpn-aarch64:latest
+MAINTAINER dholt
 
 # additional files
 ##################
